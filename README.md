@@ -17,6 +17,7 @@ An e-commerce web app made for Bubble tea lovers. Users can view an assortment o
 * User can view an in depth description of the bubble tea
 * User can add beverage to cart
 * User can view cart and delete bubble tea
+* User can search, filter and sort bubble teas
 * User can sign in and log out
 
 ## Created with: 
