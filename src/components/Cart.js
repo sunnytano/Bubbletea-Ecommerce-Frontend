@@ -7,7 +7,6 @@ class Cart extends React.Component{
         return(
             <div className="cart-drink">
                 <div className="cart-top">
-
                 <div>
                     <img className="cart-img" src={image}/>
                 </div>

@@ -14,7 +14,7 @@ class NavContainer extends React.Component {
         return(
             <div className="nav-bar">
                 <form className="nav-form">
-                <input className="search-input" type="text" value={this.props.search} onChange={this.props.handleSearch}/>
+                <input className="search-input" type="text" value={this.props.search} onChange={this.props.handleSearch} placeholder="SEARCH A BUBBLE TEA FLAVOR"/>
                 </form>
                 <br/>
                 <select onChange={this.handleChange} className="select-menu">

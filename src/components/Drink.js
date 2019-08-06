@@ -27,7 +27,7 @@ class Drink extends React.Component {
                 { 
                     this.state.hover
                     ?
-                    <p onMouseOut={this.mouseOut}>
+                    <p className="hover-drink" onMouseOut={this.mouseOut}>
                         {description}
                     </p>
                     :
