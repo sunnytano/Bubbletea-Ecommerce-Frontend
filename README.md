@@ -4,14 +4,11 @@ An e-commerce web app made for Bubble tea lovers. Users can view an assortment o
 ## Screenshots
 
 ![Landing](https://raw.githubusercontent.com/sunnytano/Bubbletea-Ecommerce-Frontend/master/public/bubbleImage1.png)
-
-
+***
 ![Landing](https://raw.githubusercontent.com/sunnytano/Bubbletea-Ecommerce-Frontend/master/public/bubbleImage2.png)
-
-
+***
 ![Landing](https://raw.githubusercontent.com/sunnytano/Bubbletea-Ecommerce-Frontend/master/public/bubbleImage3.png)
-
-
+***
 ![Landing](https://raw.githubusercontent.com/sunnytano/Bubbletea-Ecommerce-Frontend/master/public/bubbleImage4.png)
 
 ## Features
