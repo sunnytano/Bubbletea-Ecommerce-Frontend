@@ -8,7 +8,7 @@ import Login from './components/Login'
 import AccountContainer from './components/AccountContainer'
 
 class App extends React.Component {
-
+//testing integration
   state = {
     drinks: [], 
     clickedCart: false,

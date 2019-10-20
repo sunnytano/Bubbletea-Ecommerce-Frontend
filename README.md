@@ -1,8 +1,7 @@
 # Cityscape
 An e-commerce web app made for Bubble tea lovers. Users can view an assortment of flavors and it's description. Users can add selected bubble tea to cart and delete selection. Created using a React frontend and a Ruby on Rails backend with postgres integration for database persisting. 
 
-## Screenshot 
-Live Demo:
+## Screenshots
 
 ![Landing](https://raw.githubusercontent.com/sunnytano/Bubbletea-Ecommerce-Frontend/master/public/bubbleImage1.png)
 
